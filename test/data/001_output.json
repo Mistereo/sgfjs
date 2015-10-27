@@ -1,0 +1,57 @@
+{
+  "props": {
+    "FF": "4",
+    "C": "root"
+  },
+  "childs": [{
+    "props": {
+      "C": "a"
+    },
+    "childs": [{
+      "props": {
+        "C": "b"
+      },
+      "childs": [{
+        "props": {
+          "C": "c"
+        },
+        "childs": []
+      }, {
+        "props": {
+          "C": "d"
+        },
+        "childs": [{
+          "props": {
+            "C": "e"
+          },
+          "childs": []
+        }]
+      }]
+    }]
+  }, {
+    "props": {
+      "C": "f"
+    },
+    "childs": [{
+      "props": {
+        "C": "g"
+      },
+      "childs": [{
+        "props": {
+          "C": "h"
+        },
+        "childs": [{
+          "props": {
+            "C": "i"
+          },
+          "childs": []
+        }]
+      }]
+    }, {
+      "props": {
+        "C": "j"
+      },
+      "childs": []
+    }]
+  }]
+}

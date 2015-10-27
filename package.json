@@ -1,0 +1,33 @@
+{
+  "name": "sgfjs",
+  "version": "0.9.0",
+  "description": "Simple SGF parser.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "glob": "^5.0.15",
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mistereo/sgfjs.git"
+  },
+  "keywords": [
+    "sgf",
+    "smartgame",
+    "smartgameformat",
+    "parser"
+  ],
+  "author": "Mistereo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mistereo/sgfjs/issues"
+  },
+  "homepage": "https://github.com/Mistereo/sgfjs"
+}
